@@ -1,0 +1,64 @@
+*{
+    background-color: #99FFCC;
+
+}
+
+.kontenerzafryka{
+    width: 1000px;
+    margin: auto;
+}
+header{
+    background-color: #99FF66;
+    height: 200px;
+}
+nav{
+    background-color: #66CCFF;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.jeden,.dwa,.tszy{
+    width: 310px;
+    padding: 10px;
+
+    
+}
+footer{
+    background-color: #66CCFF;
+    color: #006666;
+    text-align: right;
+    height: 30px;
+    padding: 20px;
+    clear: both;
+    
+    
+
+}
+a{
+    color: #006666;
+    padding: 50px;
+    font-size: 200%;
+    text-decoration: none;
+    background-color: transparent;
+
+}
+h2,h3{
+    text-align: center;
+}
+#but1{
+    background-color: #FF0000;
+}
+#but2{
+    background-color: #00FF00;
+}
+
+.jeden{
+    float: right;
+}
+.dwa{
+    float: right;
+
+}
+.tszy{
+    float: right;
+}
